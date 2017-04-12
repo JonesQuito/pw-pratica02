@@ -3,4 +3,4 @@
 
 ### Para clonar o projeto use o comando abaixo:
 
-´git clone´
+`git clone`
