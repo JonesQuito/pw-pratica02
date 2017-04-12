@@ -3,4 +3,8 @@
 
 ### Para clonar o projeto use o comando abaixo:
 
-`git clone`
+`git clone https://github.com/JonesQuito/pw-pratica02`
+
+### Para executar o projeto use o comando abaixo no shell:
+
+`mvnw tomcat7:run`
