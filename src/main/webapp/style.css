@@ -1,0 +1,26 @@
+.cabecalho{
+    text-align: center;
+}
+.interface{
+	width: 50%;
+	box-shadow: 1px 1px 7px blue;
+	margin: auto;
+	padding: 25px;
+}
+
+.form{
+	width: 80%;
+	margin: auto;
+	padding: 10px;
+	/*border: 1px solid greenyellow;*/
+	/*background-color: greenyellow;*/
+}
+.td{
+	padding: 10px;
+}
+.form #formulario{
+	
+}
+#formulario tr{
+	padding:10px;
+}
