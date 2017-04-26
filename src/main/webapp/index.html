@@ -63,13 +63,14 @@
 		<div class="form">
 			<form id="formulario">
 				<table>
-					<tr> <td class="td">Peso:  </td> 		<td class="td"><input type="text" name="nPeso" id="iPeso"/>	</td>	</tr>
+					<tr> <td class="td">Peso:  </td> 		<td class="td"><input type="text" name="nPeso" id="iPeso" autofocus />	</td>	</tr>
 					<tr> <td class="td">Altura:  </td> 		<td class="td"><input type="text" name="nAltura" id="iAltura"/>	</td>	</tr>
-					<tr> <td class="td">IMC:  </td> 		<td class="td"><input type="text" name="nImc" id="iImc"/>	</td>	</tr>
-					<tr> <td class="td">Situação: </td> <td class="td"><input type="text" name="resultado" id="resultado" />  </td></tr>
+					<tr> <td class="td">IMC:  </td> 		<td class="td"><input type="text" name="nImc" id="iImc" disabled/>	</td>	</tr>
+					<tr> <td class="td">Situação: </td> <td class="td"><input type="text" name="resultado" id="resultado" disabled />  </td></tr>
 				</table>
 			</form>
-			<button onclick="calcularImc()">Calcular IMC</button>
+			<button onclick="calcularImc()" >Calcular IMC</button>
+			
 		</div>
 	</div>
 
