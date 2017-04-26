@@ -8,5 +8,5 @@
 ### Para executar o projeto use o comando abaixo no shell:
 
 `mvnw tomcat7:run` caso não funcione, use o comando abaixo<br>
-`mvn tomcat7:run`
+`mvn tomcat7:run`<br>
 Abra um navegador web qualquer e acesse http://localhost:9090/calculo_Imc
